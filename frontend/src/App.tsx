@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { AuthProvider } from './context/AuthContext';
 import { SavedSchemesProvider } from './context/SavedSchemesContext';
@@ -36,7 +36,7 @@ export const App: React.FC = () => {
     <QueryClientProvider client={queryClient}>
       <AuthProvider>
         <SavedSchemesProvider>
-          <BrowserRouter>
+          <HashRouter>
             <Routes>
               <Route path="/" element={<Layout />}>
                 <Route index element={<Home />} />
@@ -56,7 +56,7 @@ export const App: React.FC = () => {
                 <Route path="*" element={<NotFound />} />
               </Route>
             </Routes>
-          </BrowserRouter>
+          </HashRouter>
         </SavedSchemesProvider>
       </AuthProvider>
     </QueryClientProvider>
