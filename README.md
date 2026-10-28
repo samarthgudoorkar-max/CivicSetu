@@ -1,6 +1,8 @@
 # CivicSetu (सिविकसेतु / సివిక్‌సేతు)
 ### Intelligent Government Scheme Discovery & Citizen Assistance Platform
 
+🌐 **Live Application URL:** [https://samarthgudoorkar-max.github.io/CivicSetu/](https://samarthgudoorkar-max.github.io/CivicSetu/)
+
 > **Government Services, Simplified.**  
 > *Government schemes, made simple.*
 
