@@ -1,0 +1,117 @@
+{
+  "app": {
+    "name": "CivicSetu",
+    "tagline": "Government Services, Simplified.",
+    "headline": "Government schemes, made simple.",
+    "subheadline": "Discover Central and State Government schemes, understand eligibility, and find the right public services for you with transparent rules and step-by-step guidance.",
+    "disclaimer": "CivicSetu is an independent citizen-assistance platform, not an official Government of India website."
+  },
+  "nav": {
+    "explore": "Explore Schemes",
+    "checkEligibility": "Check Eligibility",
+    "howItWorks": "How It Works",
+    "dashboard": "Dashboard",
+    "saved": "Saved",
+    "applications": "Applications",
+    "profile": "Profile",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "hero": {
+    "badge": "Making public services easier to access",
+    "searchPlaceholder": "Search schemes, benefits, or government services (e.g. PM-KISAN, Scholarship, Ayushman)...",
+    "ctaPrimary": "Find Schemes for Me",
+    "ctaSecondary": "Explore All Schemes"
+  },
+  "categories": {
+    "heading": "Explore by Category",
+    "subheading": "Browse verified Central and State programs curated by public need",
+    "viewAll": "View all in"
+  },
+  "howWorks": {
+    "heading": "How CivicSetu Works",
+    "subheading": "Three transparent steps from discovery to application",
+    "step1Title": "1. Tell us about yourself",
+    "step1Desc": "Answer a few basic questions about your state, age, and occupation. No Aadhaar or confidential data required.",
+    "step2Title": "2. Discover relevant schemes",
+    "step2Desc": "Our deterministic engine evaluates transparent rules and shows exact criteria satisfied, missed, or needing verification.",
+    "step3Title": "3. Understand how to apply",
+    "step3Desc": "Access verified document checklists, step-by-step instructions, and official government portal links."
+  },
+  "featured": {
+    "heading": "Featured Government Schemes",
+    "subheading": "Verified initiatives with maximum citizen impact across India",
+    "viewAllSchemes": "View All Schemes"
+  },
+  "stateExplorer": {
+    "heading": "Central & State Government Portals",
+    "subheading": "Filter schemes by jurisdiction or explore your state's targeted welfare initiatives",
+    "centralDesc": "Schemes applicable uniformly across all states and Union Territories",
+    "stateDesc": "State-specific programs tailored to regional citizen welfare"
+  },
+  "why": {
+    "heading": "Why CivicSetu?",
+    "p1Title": "Personalized Discovery",
+    "p1Desc": "Find schemes that match your exact life situation without sifting through hundreds of government circulars.",
+    "p2Title": "Transparent Eligibility",
+    "p2Desc": "Never wonder why you qualify or do not. We explain every condition clearly without black-box percentages.",
+    "p3Title": "Regional Language Access",
+    "p3Desc": "Use the platform in English, Hindi, or Telugu to ensure accessibility for all family members.",
+    "p4Title": "Official Source References",
+    "p4Desc": "Every scheme references official government departments, circulars, and direct application links."
+  },
+  "eligibility": {
+    "title": "Check Your Scheme Eligibility",
+    "subtitle": "Complete a 2-minute guided assessment. We respect your privacy: zero identity documents or sensitive numbers are collected.",
+    "step1": "State & Residence",
+    "step2": "Demographics",
+    "step3": "Occupation & Role",
+    "step4": "Income & Category",
+    "back": "Previous Step",
+    "next": "Next Step",
+    "submit": "Evaluate My Eligibility",
+    "calculating": "Evaluating criteria..."
+  },
+  "results": {
+    "title": "Your Eligibility Assessment Results",
+    "subtitle": "Grounded evaluation based on verified government scheme rules.",
+    "potentiallyEligible": "Potentially Eligible",
+    "moreInfo": "More Information Required",
+    "notEligible": "Not Eligible Based on Supplied Info",
+    "unableToVerify": "Unable to Verify Automatically",
+    "satisfiedTitle": "Conditions Satisfied",
+    "notSatisfiedTitle": "Conditions Not Met",
+    "missingTitle": "Information Required / Portal Checks",
+    "relevanceLabel": "Relevance Ranking",
+    "officialSource": "Official Source Portal",
+    "lastVerified": "Last verified on",
+    "viewDetails": "View Scheme Details",
+    "saveScheme": "Save Scheme"
+  },
+  "common": {
+    "central": "Central Government",
+    "state": "State Government",
+    "online": "Online",
+    "offline": "Offline",
+    "loading": "Loading...",
+    "error": "An error occurred. Please try again.",
+    "save": "Save",
+    "saved": "Saved",
+    "checklist": "Add to Checklist",
+    "officialPortal": "Open Official Portal",
+    "share": "Share",
+    "verified": "Verified",
+    "disclaimerNote": "Eligibility guidance is informational. Final eligibility and approval are determined by the responsible government authority."
+  },
+  "footer": {
+    "about": "About CivicSetu",
+    "aboutText": "CivicSetu is a dedicated public utility platform simplifying government schemes and public services for Indian citizens.",
+    "quickLinks": "Quick Links",
+    "legal": "Transparency & Legal",
+    "privacy": "Privacy Policy",
+    "accessibility": "Accessibility Statement",
+    "terms": "Terms of Use",
+    "contact": "Contact & Support",
+    "copyright": "CivicSetu. Built for Indian Citizen Assistance."
+  }
+}

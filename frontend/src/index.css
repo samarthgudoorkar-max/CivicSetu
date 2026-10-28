@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-saffron: #FF9933;
+    --color-navy: #1A3C6E;
+    --color-govgreen: #138808;
+    --color-bg: #F8FAFC;
+    --color-border: #E2E8F0;
+    --color-text: #0F172A;
+  }
+
+  body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+    font-family: 'Inter', 'Noto Sans', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Accessible focus indicators across all interactive elements */
+  :focus-visible {
+    outline: 2px solid #1A3C6E;
+    outline-offset: 2px;
+  }
+}
+
+/* Custom utility for hiding scrollbar while retaining functionality */
+@layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
